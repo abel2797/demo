@@ -1,2 +1,3 @@
 Este respositorio es demostrativo.
 Sirve para ilustrar el uso de Git y GitHub.
+Es necesario tener 64 bits en tu pc.
